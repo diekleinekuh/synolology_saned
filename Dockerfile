@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3.16.2
 
 COPY thirdparty/balena/entry.sh /usr/bin/entry.sh
 ENV UDEV=on
