@@ -1,7 +1,7 @@
 # SANED for Synology
 
 ## Description
-This repository can build a docker image that provices a running saned along with backends for USB printers.
+This repository can build a docker image that provides saned along with backends for USB printers.
 It is intended to run on a synology NAS with docker support. It might run in other environments but wasn't tested.
 
 
